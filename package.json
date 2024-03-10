@@ -1,6 +1,6 @@
 {
   "name": "onedionys-ajax-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Ajax Wrapper) - Facilitates the use of XMLHttpRequest or Fetch API for HTTP requests with simpler syntax.",
   "main": "src/ajaxWrapper.js",
   "directories": {
@@ -28,8 +28,11 @@
     "mocha": "^10.3.0"
   },
   "dependencies": {
+    "cryndex": "^1.1.4",
+    "hyper212": "^1.1.4",
     "jquery": "^3.7.1",
     "lodash": "^4.17.21",
+    "mikrositer": "^1.1.2",
     "onedionys-date-languange": "^2.0.0",
     "onedionys-event-emitter": "^1.0.0",
     "onedionys-number-languange": "^2.0.0",

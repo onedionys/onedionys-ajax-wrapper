@@ -59,6 +59,7 @@ ajaxWrapper(url, 'POST', postData)
 
 * v1.0.0 : 07 March 2024
 * v1.0.1 : 10 March 2024
+* v1.0.2 : 10 March 2024
 
 ## 🧑 Author
 
