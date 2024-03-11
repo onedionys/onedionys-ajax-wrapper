@@ -1,6 +1,6 @@
 {
   "name": "onedionys-ajax-wrapper",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Ajax Wrapper) - Facilitates the use of XMLHttpRequest or Fetch API for HTTP requests with simpler syntax.",
   "main": "src/ajaxWrapper.js",
   "directories": {
@@ -85,6 +85,7 @@
     "onedionys-validation-library": "^1.0.0",
     "onedionys-web-storage-abstraction": "^1.0.0",
     "onedionys-websocket-wrapper": "^1.0.0",
+    "sabdaa": "^1.1.4",
     "xhr2": "^0.2.1",
     "xmlhttprequest": "^1.8.0"
   }
