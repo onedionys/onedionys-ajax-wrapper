@@ -1,6 +1,6 @@
 {
   "name": "onedionys-ajax-wrapper",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "description": "One Dionys (Ajax Wrapper) - Facilitates the use of XMLHttpRequest or Fetch API for HTTP requests with simpler syntax.",
   "main": "src/ajaxWrapper.js",
   "directories": {
@@ -120,6 +120,7 @@
     "onedionys-markdown-rendering-components": "^1.0.0",
     "onedionys-math-utilities": "^1.0.0",
     "onedionys-modal-dialog-component": "^1.0.0",
+    "onedionys-montea-magic": "^1.0.0",
     "onedionys-notification-system": "^1.0.0",
     "onedionys-number-languange": "^2.5.0",
     "onedionys-pagination-component": "^1.0.0",
@@ -132,6 +133,7 @@
     "onedionys-responsive-image-components": "^1.0.0",
     "onedionys-responsive-table-components": "^1.0.0",
     "onedionys-routing-library": "^1.0.0",
+    "onedionys-scrape-twitter": "^1.0.0",
     "onedionys-scrolling-utilities": "^1.0.0",
     "onedionys-search-bar-component": "^1.0.0",
     "onedionys-secure-password-generator": "^1.0.0",
@@ -142,6 +144,7 @@
     "onedionys-social-sharing-utilities": "^1.0.0",
     "onedionys-state-management": "^1.0.0",
     "onedionys-static-site-generator": "^1.0.0",
+    "onedionys-string-utils": "^1.0.0",
     "onedionys-template-engine": "^1.0.0",
     "onedionys-text-parsing-utilities": "^1.0.0",
     "onedionys-timezone-conversion-utilities": "^1.0.0",
